@@ -14,7 +14,7 @@ public class JenkinsDemoApplication {
 	public void printMessage()
 	{
 		log.info("Jenkins demo.....");
-		log.info("helloo.....");
+		log.info("helloo.........");
 	}
 
 	public static void main(String[] args) {
